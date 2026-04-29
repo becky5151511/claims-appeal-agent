@@ -1,5 +1,5 @@
 .env
 __pycache__/
 *.pyc
-output/
 .DS_Store
+output/*.json

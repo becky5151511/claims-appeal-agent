@@ -1,0 +1,42 @@
+Member ID: MEM-44219
+Plan: HealthFirst VIP Medicare Advantage (HMO)
+Provider: BronxCare Home Health Services
+Service Type: Home Health Aide — Personal Care (HCPCS T1019), 4 hours/day
+Service Dates: December 16–31, 2024 (16 days)
+Billed Amount: $1,944.00 ($121.50/day)
+
+Prior Authorization History:
+- Auth No. HF-2024-77341
+- Authorized service: Home health aide, 4 hours/day
+- Authorization period: September 16 – December 15, 2024
+- Renewal application submitted by BronxCare: December 1, 2024 (14 days before expiration)
+- HealthFirst response to renewal request: Not received as of December 15, 2024
+
+Background:
+Member is a 76-year-old with congestive heart failure (I50.9), chronic kidney 
+disease Stage 3 (N18.3), and limited mobility following a hip replacement in 
+August 2024. Member has required continuous home health aide services since 
+hospital discharge in September 2024.
+
+BronxCare Home Health Services submitted the prior authorization renewal request 
+on December 1, 2024 — within the 15-day advance window specified by HealthFirst 
+policy. As of the authorization expiration date (December 15, 2024), HealthFirst 
+had not issued a determination on the renewal request.
+
+BronxCare continued services from December 16 onward to avoid disruption to a 
+medically fragile patient. The renewal authorization was ultimately approved by 
+HealthFirst on January 6, 2025, covering services from January 6 forward — leaving 
+December 16–31 in a gap with no approved authorization despite timely application.
+
+HealthFirst processing timeline:
+- Renewal request received: December 1, 2024
+- Authorization expiration: December 15, 2024
+- Authorization determination issued: January 6, 2025
+- Processing time: 36 days (HealthFirst standard is 14 days for non-urgent, 
+  72 hours for urgent/expedited requests)
+
+Member clinical status during disputed period:
+- No change in clinical condition; services were continuous and consistent with 
+  approved care plan
+- Physician attestation available confirming medical necessity was unchanged 
+  throughout December

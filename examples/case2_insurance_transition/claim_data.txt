@@ -1,0 +1,41 @@
+Member ID: MEM-31504
+Previous Plan: Fidelis Care Medicaid Managed Care
+New Plan: River Spring Health LIFE (PACE Program)
+Transition Effective Date: January 4, 2025
+
+Provider: Metro Home Health Agency
+Service Type: Personal Care Aide (HCPCS T1019) — 3 days, 4 hours/day
+Service Dates: January 1, 2, and 3, 2025
+Billed Amount: $486.00 ($162.00/day)
+
+Background:
+Member is a 82-year-old Bronx resident with moderate dementia and mobility 
+limitations, requiring daily personal care assistance. Member was enrolled in 
+Fidelis Care Medicaid Managed Care with an active authorization for personal care 
+aide services (4 hours/day) valid through December 31, 2024.
+
+The member's family initiated a plan transition to River Spring Health LIFE (a PACE 
+program) in November 2024. The enrollment application was submitted November 19, 2024. 
+River Spring processed the enrollment with an effective date of January 4, 2025.
+
+Fidelis Care coverage terminated December 31, 2024.
+
+This created a 3-day gap (January 1–3, 2025) during which:
+- Fidelis Care coverage had ended
+- River Spring coverage had not yet begun
+- The member's home health aide continued services without interruption, as 
+  discontinuing care for a dementia patient with mobility issues posed a safety risk
+
+Fidelis Care denial (separate claim CLM-FC-2024-88821):
+Fidelis Care also denied the January 1–3 dates, stating coverage ended December 31, 
+2024 and no retroactive extension was authorized.
+
+Both plans have denied the same three days of service.
+
+Key facts:
+- River Spring enrollment application was submitted November 19, 2024
+- The 3-day gap resulted from River Spring's processing timeline, not member action
+- Interrupting personal care services for an 82-year-old dementia patient creates 
+  documented safety and health risks
+- The home health aide continued services in good faith to ensure member safety
+- New York State Medicaid transition-of-care protections may apply

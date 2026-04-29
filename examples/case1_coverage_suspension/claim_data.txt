@@ -1,0 +1,36 @@
+Member ID: MEM-20871
+Plan: HealthFirst VIP Medicare Advantage (HMO)
+Primary Diagnosis: Type 2 Diabetes (E11.65), Hypertension (I10)
+Treating Physician: Dr. Linda Fang, MD — Primary Care, Flushing, NY
+Service Date: October 14, 2024
+Service Type: Office Visit — Established Patient (CPT 99213), Diabetes Management Follow-up
+
+Background:
+Member is an 78-year-old Chinese-American resident of Manhattan, NY. Member 
+traveled to Guangzhou, China from August 20 to October 8, 2024 to visit family. 
+Member returned to the United States on October 8, 2024 (round-trip ticket 
+confirmation available).
+
+The appointment on October 14, 2024 was a scheduled follow-up for ongoing diabetes 
+and hypertension management, booked prior to the member's departure. The appointment 
+took place at Dr. Fang's office in Flushing, NY — six days after the member's 
+confirmed return to the United States.
+
+Residence documentation:
+- Member's permanent address of record: [Manhattan address]
+- Member has resided at this address for 11 years
+- Utility bills, lease agreement, and NYC senior center enrollment records confirm 
+  continuous U.S. residence
+- Travel was temporary (49 days) for family visit; member had a round-trip ticket 
+  booked at the time of departure
+
+HealthFirst policy flag appears to have been triggered automatically due to a gap 
+in pharmacy claims during the travel period, which the plan's system may have 
+interpreted as a change in primary residence.
+
+Supporting documents available:
+- Round-trip flight itinerary (departure Aug 20, return Oct 8)
+- Passport with entry/exit stamps
+- NYC lease agreement
+- Con Edison utility bill (continuous billing through travel period)
+- Senior center attendance records (Oct 9 onward)
