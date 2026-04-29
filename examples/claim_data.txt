@@ -1,0 +1,26 @@
+Member: [Name Redacted]
+Date of Birth: [Redacted]
+Member ID: MEM-10042
+Plan: HealthFirst Gold PPO
+Primary Diagnosis: Type 2 Diabetes Mellitus with complications (E11.65)
+Treating Physician: Dr. Sarah Chen, MD
+
+Clinical Notes Summary (February 28, 2025 visit):
+- Member has a 9-year history of Type 2 diabetes
+- Current HbA1c: 8.9% (elevated, indicating poor glycemic control despite oral medications)
+- Member is currently on insulin therapy (basal-bolus regimen): Lantus 30u nightly + Humalog sliding scale
+- Physician notes two documented hypoglycemic episodes in the past 90 days requiring 
+  assistance (blood glucose < 54 mg/dL), recorded January 12 and February 3, 2025
+- Physician states in clinical notes: "Patient demonstrates difficulty recognizing 
+  hypoglycemic symptoms. CGM recommended to improve safety and glycemic management."
+- Member lives alone, which increases risk associated with undetected hypoglycemia
+
+Prior treatments tried:
+- Metformin (discontinued due to GI intolerance)
+- Glipizide (discontinued after contributing to hypoglycemic episode)
+- Current: Insulin-based regimen as above
+
+Supporting documents included with original claim:
+- Office visit notes (Feb 28, 2025)
+- Lab results showing HbA1c trend over 12 months
+- Physician letter of medical necessity
